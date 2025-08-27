@@ -11,7 +11,6 @@ public class Main {
 
         int compnumber = comprand();
         int numperson;
-        int res;
         boolean sswitch=true;
         int attempts=0;
 
