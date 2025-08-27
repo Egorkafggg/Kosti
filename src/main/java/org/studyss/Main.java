@@ -27,7 +27,7 @@ public class Main {
                 System.out.println("Я сам в шоке, но загаданное число больше, брат");
                 attempts++;
 
-            } else if (compnumber < numperson) {
+            } else {
                 System.out.println("Не ожидал от тебя такого. Загаданное число меньше, брат");
                 attempts++;
             }
